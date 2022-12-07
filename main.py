@@ -16,6 +16,9 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 print(__name__)
+print("\n")
+num = int(input())
+print( num * num )
 if __name__ == '__main__':
     print_no('common')
     print_low('welcome')
